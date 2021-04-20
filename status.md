@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Isaac Smoler Schatz
 
 #### Your section leader's name
 
-TODO
+Joanna Arnold Nichols
 
 #### Project title
 
-TODO
+NYT Crossword Puzzle Analysis: Black Box Heat Map
 
 ***
 
@@ -18,12 +18,14 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I can successfully have the user input what day of the week the puzzles should be evaulated for and how many should be evaluated.
+I can handle rectangular nonstandard size puzzles and produce a 2D array with percents for each square on the board.
+I have the beginnings of the displaying heatmap as a choropleth grid.
 
 #### What have you not done for your project yet?
 
-TODO
+I still need to add user interactivity with the display.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I had to overcome the issue of nonstandard board size.
