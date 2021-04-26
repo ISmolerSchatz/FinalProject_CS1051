@@ -15,6 +15,7 @@ dayType = input("Enter one of the options below to evaluate crossword puzzles fr
 while (dayType not in dotwEvalOptions):
     dayType = input("Enter one of the options below to evaluate crossword puzzles from that day(s): \n (sun, mon, tue, wed, thu, fri, sat, all_non_sun) \n")
 
+print("Note that evaluating 100 puzzles takes approximately 1 minute.")
 boardsToEval = int(input("How many crossword puzzle boards should be evaluated?: "))
 while (boardsToEval > 1000):
     boardsToEval = int(input("How many crossword puzzle boards should be evaluated?: "))
